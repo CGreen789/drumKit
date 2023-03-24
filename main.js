@@ -19,9 +19,9 @@ Task 6 - Styling the page
 
 //Assign all sounds to variables
 const crashCymbal = new Audio('./assets/crashCymbal.wav');
-const hiTom = new Audio('./assets/highTom.wav');
+const hiTom = new Audio('./assets/hiTom.wav');
 const lowTom = new Audio('./assets/lowTom.wav');
-const snareDrum = new Audio('./assets/snare.wav');
+const snareDrum = new Audio('./assets/snareDrum.wav');
 const kickDrum = new Audio('./assets/kickDrum.wav');
 
 
