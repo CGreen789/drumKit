@@ -4,7 +4,8 @@ I'm working to create my own version of the drumkit tutorial seen on the JavaScr
 
 I decided to start from scratch to practice so haven't copied from the files you can find on GitHub.
 
-⏭️ My next task is to add keydown functionality so that you can press the right key to play the sound. \n
+⏭️ My next task is to add keydown functionality so that you can press the right key to play the sound.
+
 ⏭️ I'd also like to add some CSS styling so when you press the right key, the button's border shadow changes and the buttons gets slightly larger.
 
 🤔 Changing the colour of the buttons - what colours would work?
